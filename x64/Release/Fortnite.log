@@ -1,0 +1,445 @@
+﻿  main.cpp
+C:\Users\ac\Desktop\updated\utils.hpp(42,29): warning C4244: 'argument': conversion from 'uintptr_t' to 'ULONG', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(64,48): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(64,16): warning C4244: 'argument': conversion from 'uintptr_t' to 'ULONG', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(71,52): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(71,16): warning C4244: 'argument': conversion from 'uintptr_t' to 'ULONG', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(78,16): warning C4244: 'argument': conversion from 'uintptr_t' to 'ULONG', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(317,2): warning C4091: 'static ': ignored on left of 'Vector3' when no variable is declared
+C:\Users\ac\Desktop\updated\utils.hpp(299,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(299,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(299,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(355,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(356,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(357,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(366,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(367,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(368,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(372,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(373,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(377,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(378,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(382,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(383,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(416,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(417,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(418,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(443,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(444,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(445,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(460,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(460,54): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\decryption.asm(90,22): warning C4101: 'v8': unreferenced local variable
+C:\Users\ac\Desktop\updated\decryption.asm(91,17): warning C4101: 'v9': unreferenced local variable
+C:\Users\ac\Desktop\updated\utils.hpp(833,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(864,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(865,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(869,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(869,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(870,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(870,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(871,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(871,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(872,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(872,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(874,181): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(874,164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(874,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(874,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(874,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(874,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(879,181): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(879,164): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(879,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(879,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(879,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(879,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(879,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(879,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(895,170): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(895,152): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(895,134): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(895,116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(895,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(895,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(895,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(910,163): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(910,146): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(910,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(910,110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(910,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(910,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(910,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(915,171): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(915,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(915,136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(915,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(915,182): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(915,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(915,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(915,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(915,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(922,78): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(954,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(954,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(963,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(988,154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(988,136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(988,118): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(988,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(988,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(988,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(992,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(993,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(996,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(996,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(996,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(996,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(997,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(997,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(997,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(997,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(998,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(998,79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(998,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(998,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(999,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(999,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(999,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(999,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1000,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1000,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1000,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1000,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1001,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1001,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1001,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1001,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1002,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1002,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1002,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1002,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1003,118): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1003,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1003,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1003,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1034,2): warning C4091: 'static ': ignored on left of 'CKey' when no variable is declared
+C:\Users\ac\Desktop\updated\utils.hpp(1043,19): warning C4244: 'initializing': conversion from 'const wchar_t' to 'char', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1048,40): warning C4244: '=': conversion from 'const wchar_t' to 'char', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1057,18): warning C4244: 'initializing': conversion from 'const wchar_t' to 'char', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1082,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1083,9): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1087,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1087,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1088,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1088,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1089,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1089,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1090,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1090,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1092,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(1092,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(116,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(117,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(214,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ac\Desktop\updated\main.cpp(218,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ac\Desktop\updated\main.cpp(223,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(278,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ac\Desktop\updated\main.cpp(347,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(359,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(359,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(367,56): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(367,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(377,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(377,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(387,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(387,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(443,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(443,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(487,24): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\ac\Desktop\updated\main.cpp(540,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(541,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(553,87): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(567,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(567,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(584,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(584,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(589,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(589,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(594,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(594,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(599,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(599,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(604,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(604,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(647,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(695,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(695,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(701,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(701,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(706,61): warning C4305: 'argument': truncation from 'double' to 'const T'
+          with
+          [
+              T=float
+          ]
+C:\Users\ac\Desktop\updated\main.cpp(715,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(716,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(721,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(722,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(725,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(726,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(786,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(786,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(791,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(791,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(793,75): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(793,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(811,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(811,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(811,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(811,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(811,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(813,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(813,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(813,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(813,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(813,37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(818,119): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(818,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(818,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(818,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(818,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(820,120): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(820,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(820,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(820,69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(820,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(827,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(827,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(873,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(873,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(873,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(873,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(873,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(874,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(874,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(874,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(874,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(874,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(875,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(875,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(875,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(875,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(875,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(876,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(876,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(876,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(876,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(876,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(877,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(877,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(877,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(877,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(877,30): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(878,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(878,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(878,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(878,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(878,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(879,90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(879,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(879,57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(879,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(879,27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(880,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(880,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(880,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(880,32): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(880,22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(881,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(881,58): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(881,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(881,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(881,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(882,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(882,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(882,47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(882,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(882,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(883,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(883,62): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(883,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(883,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(883,24): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(884,84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(884,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(884,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(884,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(884,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(885,84): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(885,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(885,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(885,38): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(885,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(886,88): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(886,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(886,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(886,40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(886,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(916,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(916,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(916,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(916,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(917,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(917,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(917,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(917,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(918,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(918,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(918,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(918,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(919,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(919,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(919,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(919,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(921,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(921,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(921,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(921,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(922,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(922,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(922,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(922,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(923,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(923,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(923,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(923,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(924,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(924,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(924,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(924,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(926,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(926,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(926,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(926,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(927,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(927,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(927,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(927,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(928,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(928,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(928,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(928,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(929,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(929,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(929,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(929,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(937,131): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(937,112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(937,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(937,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(939,127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(939,109): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(939,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(939,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(943,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(943,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(954,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1000,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1000,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(731,22): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\ac\Desktop\updated\main.cpp(337,18): warning C4101: 'distaim': unreferenced local variable
+C:\Users\ac\Desktop\updated\main.cpp(405,19): warning C4101: 'RGBAColor': unreferenced local variable
+C:\Users\ac\Desktop\updated\main.cpp(1067,32): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1068,34): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1086,184): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1086,136): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1086,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1086,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1087,184): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1087,136): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1087,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1087,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1088,184): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1088,136): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1088,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1088,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1089,184): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1089,136): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1089,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1089,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1090,184): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1090,136): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1090,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1090,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1091,184): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1091,136): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1091,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1091,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1092,184): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1092,136): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1092,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1092,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1093,184): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1093,136): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1093,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1093,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1094,184): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1094,136): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1094,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1094,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1095,184): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1095,136): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1095,89): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1095,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1099,134): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1099,99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1099,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1099,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1100,133): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1100,104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1100,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1100,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1104,225): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1104,205): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1104,185): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1104,165): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1444,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1483,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\main.cpp(1484,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(52,16): warning C4244: 'argument': conversion from 'uintptr_t' to 'ULONG', possible loss of data
+C:\Users\ac\Desktop\updated\utils.hpp(84): message : see reference to function template instantiation 'T read<uint16_t>(uintptr_t,uintptr_t)' being compiled
+          with
+          [
+              T=uint16_t
+          ]
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+C:\Users\ac\Desktop\updated\main.cpp(1038): warning C4715: 'actorLoop': not all control paths return a value
+C:\Users\ac\Desktop\updated\main.cpp(936): warning C4723: potential divide by 0
+  135 of 2175 functions ( 6.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    17 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\ac\Desktop\updated\x64\Release\vc120.pdb'; linking object as if no debug info
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(context.obj)' or at 'C:\Users\ac\Desktop\updated\x64\Release\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(init.obj)' or at 'C:\Users\ac\Desktop\updated\x64\Release\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(input.obj)' or at 'C:\Users\ac\Desktop\updated\x64\Release\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'C:\Users\ac\Desktop\updated\x64\Release\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(vulkan.obj)' or at 'C:\Users\ac\Desktop\updated\x64\Release\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(window.obj)' or at 'C:\Users\ac\Desktop\updated\x64\Release\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'C:\Users\ac\Desktop\updated\x64\Release\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'C:\Users\ac\Desktop\updated\x64\Release\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_monitor.obj)' or at 'C:\Users\ac\Desktop\updated\x64\Release\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'C:\Users\ac\Desktop\updated\x64\Release\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_thread.obj)' or at 'C:\Users\ac\Desktop\updated\x64\Release\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'C:\Users\ac\Desktop\updated\x64\Release\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'C:\Users\ac\Desktop\updated\x64\Release\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'C:\Users\ac\Desktop\updated\x64\Release\glfw3.pdb'; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB 'glfw3.pdb' was not found with 'glfw3.lib(osmesa_context.obj)' or at 'C:\Users\ac\Desktop\updated\x64\Release\glfw3.pdb'; linking object as if no debug info
+  Fortnite.vcxproj -> C:\Users\ac\Desktop\updated\x64\Release\Fortnite.exe
